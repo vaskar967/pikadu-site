@@ -5,3 +5,4 @@ menuToggle.addEventListener('click', (e) => {
 	e.preventDefault()
 	menu.classList.toggle('visible')
 })
+console.log('Pikadu')
